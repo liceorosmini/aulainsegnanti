@@ -52,50 +52,50 @@ var APP_DATA = {
         {
           "yaw": 0.6572918856814169,
           "pitch": 0.06741947158725559,
-          "title": "",
-          "text": "Armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         },
         {
           "yaw": 1.407534268638063,
           "pitch": 0.36011177069880773,
-          "title": "",
-          "text": "postazioni di lavoro con alimentazioni per notebook"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni di lavoro con alimentazioni per notebook</span>",
+          "text": ""
         },
         {
           "yaw": -1.3433144272582496,
           "pitch": 0.3569529315967408,
-          "title": "",
-          "text": "postazioni di lavoro con alimentazione per notebook"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni di lavoro con alimentazione per notebook</span><br>",
+          "text": ""
         },
         {
           "yaw": -1.4013336437714656,
           "pitch": 0.042698163818643664,
-          "title": "",
-          "text": "armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         },
         {
           "yaw": -0.584894341754957,
           "pitch": 0.061198268928652766,
-          "title": "",
-          "text": "armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         },
         {
           "yaw": -2.1463942689241193,
           "pitch": 0.08790554681761797,
-          "title": "Title",
+          "title": "<br>",
           "text": "armadietti docenti"
         },
         {
-          "yaw": -3.1076820674245145,
-          "pitch": 0.12875763002068297,
-          "title": "",
-          "text": "porta di uscita/ingresso"
+          "yaw": -3.109972235416649,
+          "pitch": 0.12889494302397608,
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">porta di uscita/ingresso</span>",
+          "text": ""
         },
         {
           "yaw": 2.2897737629209587,
           "pitch": 0.10461193322061213,
-          "title": "",
-          "text": "armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         }
       ]
     },
@@ -151,32 +151,32 @@ var APP_DATA = {
         {
           "yaw": -0.7503978690025725,
           "pitch": 0.15424839349467234,
-          "title": "",
-          "text": "postazioni desktop"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni desktop</span>",
+          "text": ""
         },
         {
           "yaw": -1.681074662438938,
           "pitch": 0.09271663041617018,
-          "title": "",
-          "text": "postazioni desktop"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni desktop</span>",
+          "text": ""
         },
         {
           "yaw": -2.3000577810456857,
           "pitch": 0.1347030169357808,
-          "title": "",
-          "text": "armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         },
         {
           "yaw": -1.0008596355638701,
           "pitch": 0.2702814806413585,
-          "title": "",
-          "text": "armadio tecnico"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadio tecnico</span>",
+          "text": ""
         },
         {
           "yaw": -1.0356381001202664,
           "pitch": 0.09658219253710243,
-          "title": "",
-          "text": "stampante di rete"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazone stampante di rete</span>",
+          "text": ""
         }
       ]
     },
@@ -220,20 +220,20 @@ var APP_DATA = {
         {
           "yaw": -0.8627586310872246,
           "pitch": 0.6097816098224111,
-          "title": "",
-          "text": "punti di alimentazione notebook"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">punti di alimentazione notebook</span>",
+          "text": ""
         },
         {
           "yaw": 0.7987939300912856,
           "pitch": 0.5707862261747856,
-          "title": "Title",
-          "text": "punti di alimentazione notebook"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">punti di alimentazione notebook</span>",
+          "text": ""
         },
         {
           "yaw": -1.49544124033363,
           "pitch": 0.005075585695077933,
-          "title": "",
-          "text": "punto alimentazione maxischermo"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">alimentazione maxischermo</span>",
+          "text": ""
         }
       ]
     },
@@ -289,68 +289,68 @@ var APP_DATA = {
         {
           "yaw": -2.1385253362919094,
           "pitch": 0.2249659494501568,
-          "title": "",
-          "text": "lavello"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">lavello</span>",
+          "text": ""
         },
         {
           "yaw": -2.3186114614317344,
           "pitch": 0.2660463022278048,
-          "title": "",
-          "text": "forno a microonde"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">forno a microonde</span>",
+          "text": ""
         },
         {
           "yaw": -1.997353269018614,
           "pitch": 0.1760715005221023,
-          "title": "",
-          "text": "frigorifero/congelatore"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">frigorifero/congelatore</span>",
+          "text": ""
         },
         {
           "yaw": 1.7598650823347874,
           "pitch": 0.4196833956567101,
-          "title": "",
-          "text": "spazio relax/lettura"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">divanetti relax/lettura</span>",
+          "text": ""
         },
         {
           "yaw": -1.0511864999730651,
           "pitch": 0.39584974056079325,
-          "title": "",
-          "text": "tavoli ad uso ricreativo o per lavoro"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">tavoli ad uso ricreativo o per lavoro</span>",
+          "text": ""
         },
         {
           "yaw": -0.08729224829185966,
           "pitch": 0.35905175796190925,
-          "title": "",
-          "text": "armadietti contenitori multiuso condivisi"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti contenitori multiuso condivisi</span>",
+          "text": ""
         },
         {
           "yaw": -1.9118666638288975,
           "pitch": -0.2969804665918865,
-          "title": "",
-          "text": "access point"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">access point</span>",
+          "text": ""
         },
         {
           "yaw": 0.01976898398534388,
           "pitch": -0.4655913054060097,
-          "title": "",
-          "text": "proiettore"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">proiettore</span>",
+          "text": ""
         },
         {
           "yaw": -1.0255889437099164,
           "pitch": -0.2545812655066033,
-          "title": "",
-          "text": "cassa acustica"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">cassa acustica</span>",
+          "text": ""
         },
         {
           "yaw": 0.9666996858579342,
           "pitch": -0.2593002529191004,
-          "title": "",
-          "text": "cassa acustica"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">cassa acustica</span>",
+          "text": ""
         },
         {
           "yaw": 0.584927908773679,
           "pitch": 0.06270349900316319,
-          "title": "",
-          "text": "uscita di emergenza"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">uscita di emergenza</span>",
+          "text": ""
         }
       ]
     }
@@ -360,6 +360,6 @@ var APP_DATA = {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
     "fullscreenButton": true,
-    "viewControlButtons": true
+    "viewControlButtons": false
   }
 };
