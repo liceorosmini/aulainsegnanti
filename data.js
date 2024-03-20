@@ -151,13 +151,13 @@ var APP_DATA = {
         {
           "yaw": -0.7503978690025725,
           "pitch": 0.15424839349467234,
-          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni desktop</span>",
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni informatiche</span>",
           "text": ""
         },
         {
           "yaw": -1.681074662438938,
           "pitch": 0.09271663041617018,
-          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni desktop</span>",
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">postazioni informatiche</span>",
           "text": ""
         },
         {
@@ -232,7 +232,7 @@ var APP_DATA = {
         {
           "yaw": -1.49544124033363,
           "pitch": 0.005075585695077933,
-          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">alimentazione maxischermo</span>",
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">predisposizione maxischermo</span>",
           "text": ""
         }
       ]
