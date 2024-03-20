@@ -52,31 +52,31 @@ var APP_DATA = {
         {
           "yaw": 0.6572918856814169,
           "pitch": 0.06741947158725559,
-          "title": "Title",
+          "title": "",
           "text": "Armadietti docenti"
         },
         {
           "yaw": 1.407534268638063,
           "pitch": 0.36011177069880773,
-          "title": "Title",
+          "title": "",
           "text": "postazioni di lavoro con alimentazioni per notebook"
         },
         {
           "yaw": -1.3433144272582496,
           "pitch": 0.3569529315967408,
-          "title": "Title",
+          "title": "",
           "text": "postazioni di lavoro con alimentazione per notebook"
         },
         {
           "yaw": -1.4013336437714656,
           "pitch": 0.042698163818643664,
-          "title": "Title",
+          "title": "",
           "text": "armadietti docenti"
         },
         {
           "yaw": -0.584894341754957,
           "pitch": 0.061198268928652766,
-          "title": "Title",
+          "title": "",
           "text": "armadietti docenti"
         },
         {
@@ -88,13 +88,13 @@ var APP_DATA = {
         {
           "yaw": -3.1076820674245145,
           "pitch": 0.12875763002068297,
-          "title": "Title",
+          "title": "",
           "text": "porta di uscita/ingresso"
         },
         {
           "yaw": 2.2897737629209587,
           "pitch": 0.10461193322061213,
-          "title": "Title",
+          "title": "",
           "text": "armadietti docenti"
         }
       ]
@@ -151,31 +151,31 @@ var APP_DATA = {
         {
           "yaw": -0.7503978690025725,
           "pitch": 0.15424839349467234,
-          "title": "Title",
+          "title": "",
           "text": "postazioni desktop"
         },
         {
           "yaw": -1.681074662438938,
           "pitch": 0.09271663041617018,
-          "title": "Title",
+          "title": "",
           "text": "postazioni desktop"
         },
         {
           "yaw": -2.3000577810456857,
           "pitch": 0.1347030169357808,
-          "title": "Title",
+          "title": "",
           "text": "armadietti docenti"
         },
         {
           "yaw": -1.0008596355638701,
           "pitch": 0.2702814806413585,
-          "title": "Title",
+          "title": "",
           "text": "armadio tecnico"
         },
         {
           "yaw": -1.0356381001202664,
           "pitch": 0.09658219253710243,
-          "title": "Title",
+          "title": "",
           "text": "stampante di rete"
         }
       ]
@@ -220,7 +220,7 @@ var APP_DATA = {
         {
           "yaw": -0.8627586310872246,
           "pitch": 0.6097816098224111,
-          "title": "Title",
+          "title": "",
           "text": "punti di alimentazione notebook"
         },
         {
@@ -232,7 +232,7 @@ var APP_DATA = {
         {
           "yaw": -1.49544124033363,
           "pitch": 0.005075585695077933,
-          "title": "Title",
+          "title": "",
           "text": "punto alimentazione maxischermo"
         }
       ]
@@ -273,8 +273,8 @@ var APP_DATA = {
           "target": "0-ingresso---area-studio"
         },
         {
-          "yaw": -2.898348250380897,
-          "pitch": 0.1299518526672454,
+          "yaw": -2.898054774608015,
+          "pitch": 0.12741575751033096,
           "rotation": 1.5707963267948966,
           "target": "1-area-postazioni-informatiche"
         },
@@ -289,67 +289,67 @@ var APP_DATA = {
         {
           "yaw": -2.1385253362919094,
           "pitch": 0.2249659494501568,
-          "title": "Title",
+          "title": "",
           "text": "lavello"
         },
         {
           "yaw": -2.3186114614317344,
           "pitch": 0.2660463022278048,
-          "title": "Title",
+          "title": "",
           "text": "forno a microonde"
         },
         {
           "yaw": -1.997353269018614,
           "pitch": 0.1760715005221023,
-          "title": "Title",
+          "title": "",
           "text": "frigorifero/congelatore"
         },
         {
           "yaw": 1.7598650823347874,
           "pitch": 0.4196833956567101,
-          "title": "Title",
+          "title": "",
           "text": "spazio relax/lettura"
         },
         {
           "yaw": -1.0511864999730651,
           "pitch": 0.39584974056079325,
-          "title": "Title",
+          "title": "",
           "text": "tavoli ad uso ricreativo o per lavoro"
         },
         {
           "yaw": -0.08729224829185966,
           "pitch": 0.35905175796190925,
-          "title": "Title",
+          "title": "",
           "text": "armadietti contenitori multiuso condivisi"
         },
         {
           "yaw": -1.9118666638288975,
           "pitch": -0.2969804665918865,
-          "title": "Title",
+          "title": "",
           "text": "access point"
         },
         {
           "yaw": 0.01976898398534388,
           "pitch": -0.4655913054060097,
-          "title": "Title",
+          "title": "",
           "text": "proiettore"
         },
         {
           "yaw": -1.0255889437099164,
           "pitch": -0.2545812655066033,
-          "title": "Title",
+          "title": "",
           "text": "cassa acustica"
         },
         {
           "yaw": 0.9666996858579342,
           "pitch": -0.2593002529191004,
-          "title": "Title",
+          "title": "",
           "text": "cassa acustica"
         },
         {
           "yaw": 0.584927908773679,
           "pitch": 0.06270349900316319,
-          "title": "Title",
+          "title": "",
           "text": "uscita di emergenza"
         }
       ]
@@ -359,7 +359,7 @@ var APP_DATA = {
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
+    "fullscreenButton": true,
     "viewControlButtons": true
   }
 };
