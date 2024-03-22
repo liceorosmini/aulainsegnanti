@@ -82,8 +82,8 @@ var APP_DATA = {
         {
           "yaw": -2.1463942689241193,
           "pitch": 0.08790554681761797,
-          "title": "<br>",
-          "text": "armadietti docenti"
+          "title": "<span style=\"font-size: 13px; background-color: rgba(58, 68, 84, 0.8);\">armadietti docenti</span>",
+          "text": ""
         },
         {
           "yaw": -3.109972235416649,
